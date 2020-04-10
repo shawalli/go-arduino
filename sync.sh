@@ -1,0 +1,1 @@
+rsync -avz -e ssh . pi@192.168.86.183:~/go/src/lightclock/
